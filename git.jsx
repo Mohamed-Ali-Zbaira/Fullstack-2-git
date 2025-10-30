@@ -3,8 +3,9 @@ import React from 'react'
 export const git = () => {
   return (
     <div>
-      <h1>git</h1> 
-
+      <h1>git</h1>
+      <h1>test</h1>
+      <h1>add branch css-refactoring</h1>
       <title>Git</title>
       <h1>first description</h1>
     </div>
